@@ -1,0 +1,14 @@
+@media (max-width: 3000px) {
+    body {
+      background-color: lightblue;
+    }
+    .navbar{
+     
+    }
+    
+    .image1 img{
+        width: 900px%;
+        height: 80vh;
+    }
+  }
+
